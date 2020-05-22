@@ -1,0 +1,1 @@
+Welcome <#if user.gender == "Male">Mr.</#if> <#if user.gender == "Female">Madam.</#if> ${user.name}

@@ -1,0 +1,1 @@
+Hello ${name?upper_case}, your name has ${name?length} characters.
